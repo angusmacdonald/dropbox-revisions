@@ -1,5 +1,5 @@
 spec = Gem::Specification.new do |s|
-  s.name = "Dropbox Revision History Downloader"
+  s.name = "dropbox-revs"
   s.version = "1.0"
   s.date = %q{2011-03-12}
   s.authors = ["Angus Macdonald"]
